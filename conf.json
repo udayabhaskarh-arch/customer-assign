@@ -1,0 +1,8 @@
+{
+  "basePackage": "com.customassign.codegen",
+  "configPackage": "com.customassign.codegen.config",
+  "apiPackage": "com.customassign.codegen.controllers",
+  "modelPackage": "com.customassign.codegen.model",
+  "groupId": "com.customassign",
+  "artifactId": "customassign-proj"
+}
